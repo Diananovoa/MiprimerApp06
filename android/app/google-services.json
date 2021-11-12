@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193838519088",
+    "project_id": "bdappmovil06-af72a",
+    "storage_bucket": "bdappmovil06-af72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193838519088:android:9a2cadc45334c90a28aef5",
+        "android_client_info": {
+          "package_name": "com.unbosque.myappmovilgrupo06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193838519088-es6d432pqciu78spurerka0l1ecqolk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TsXy1k_WgO5cmXVtyTJU3XMW3cEvKGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193838519088-es6d432pqciu78spurerka0l1ecqolk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
