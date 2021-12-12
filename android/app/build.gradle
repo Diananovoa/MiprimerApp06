@@ -36,11 +36,12 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.unbosque.myappmovilgrupo06"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
-        multiDexEnabled=true
+        multiDexEnabled true
+
     }
 
     buildTypes {
@@ -58,5 +59,6 @@ flutter {
 dependencies {
     // Import the Firebase BoM
     implementation platform('com.google.firebase:firebase-bom:29.0.0')
-    implementation platform "androidx.multidex:multidex:2.0.0"
+    implementation "androidx.multidex:multidex:2.0.0"
+
 }
